@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0psvoln9lx88g25b?svg=true)](https://ci.appveyor.com/project/elenakoch122/ra47-11-thunk-redux-toolkit)
+
 GitHub Pages: https://elenakoch122.github.io/ra47_11-thunk-redux-toolkit
 
 # Домашнее задание к занятию «Redux Toolkit»
