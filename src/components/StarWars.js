@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
-import { changeCount, showFacts } from "../../slices/facts";
+import { changeCount, showFacts } from "../slices/facts";
 import { v4 as uuidv4 } from "uuid";
 import { useEffect } from "react";
 

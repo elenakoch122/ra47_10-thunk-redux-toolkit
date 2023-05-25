@@ -1,4 +1,4 @@
-GitHub Pages:
+GitHub Pages: https://elenakoch122.github.io/ra47_11-thunk-redux-toolkit
 
 # Домашнее задание к занятию «Redux Toolkit»
 ===

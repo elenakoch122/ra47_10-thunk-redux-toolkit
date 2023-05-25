@@ -8,6 +8,10 @@
   padding: 16px;
 }
 
+.starWars {
+  margin-bottom: 32px;
+}
+
 .starWars p {
   margin-bottom: 8px;
 }
@@ -18,4 +22,32 @@
 
 .starWars li {
   margin-bottom: 8px;
+}
+
+.photo input[type=file] {
+  margin-bottom: 16px;
+}
+
+.photo-container {
+  display: flex;
+}
+
+.photo-container img, .photo-container div {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.photo-container ul {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  gap: 8px;
+  padding-left: 16px;
+  border-left: 3px solid #ccc;
+  list-style-type: none;
+}
+
+.photo_last {
+  margin-right: 100px;
 }
