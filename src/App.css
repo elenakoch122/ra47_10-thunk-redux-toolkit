@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  padding: 16px;
+}
+
+.starWars p {
+  margin-bottom: 8px;
+}
+
+.starWars ul {
+  margin-left: 35px;
+}
+
+.starWars li {
+  margin-bottom: 8px;
+}
